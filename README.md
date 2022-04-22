@@ -16,4 +16,10 @@ Espero poder seguir expandiendo mi conocimiento y lograr nuevos desafíos en est
 
 ------------
 
+## Datos de contacto:
+
+-Linkedin: https://www.linkedin.com/in/brenda-%C3%A1lvarez-46b814186/
+-Email: brendagalacho@gmail.com
+-Telefono: +5492236982731
+
 ![](https://github.com/bgalacho/bgalacho/raw/main/vlcsnap-2022-04-20-16h54m57s671.png)
