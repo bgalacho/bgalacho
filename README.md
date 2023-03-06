@@ -8,7 +8,8 @@ También tuve la posibilidad de dar clases de física en un bachillerato de adul
 Espero poder seguir expandiendo mi conocimiento y lograr nuevos desafíos en esta nueva parte de mi vida que es el desarrollo web.
 
 ------------
-
+## Portfolio
+http://brendaalvarez.net/
 ## Proyecto Personal de países
 - Demo del proyecto funcional: http://countries.bgalacho.nacholab.net
 - Video de demostración: https://www.youtube.com/watch?v=qsWdvZMzeMU
