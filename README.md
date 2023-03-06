@@ -10,10 +10,6 @@ Espero poder seguir expandiendo mi conocimiento y lograr nuevos desafíos en est
 ------------
 ## Portfolio
 http://brendaalvarez.net/
-## Proyecto Personal de países
-- Demo del proyecto funcional: http://countries.bgalacho.nacholab.net
-- Video de demostración: https://www.youtube.com/watch?v=qsWdvZMzeMU
-- Repositorio con el código: https://github.com/bgalacho/Pi-Countries
 
 ------------
 
